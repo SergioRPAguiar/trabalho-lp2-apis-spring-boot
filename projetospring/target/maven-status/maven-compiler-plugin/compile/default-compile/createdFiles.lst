@@ -1,0 +1,8 @@
+br\com\lp2\apiswithspringboot\resources\EnderecoResource.class
+br\com\lp2\apiswithspringboot\javabeans\Telefone.class
+br\com\lp2\apiswithspringboot\resources\TelefoneResource.class
+br\com\lp2\apiswithspringboot\repository\EnderecoRepository.class
+br\com\lp2\apiswithspringboot\ProjetospringApplication.class
+br\com\lp2\apiswithspringboot\javabeans\Endereco.class
+br\com\lp2\apiswithspringboot\resources\PessoaResource.class
+br\com\lp2\apiswithspringboot\javabeans\Pessoa.class
